@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
       <div style="text-align: center; font-size: 15px;">
-        Qingquan Xie\\
+        Qingquan Xie\
         清泉
       </div> 
   #   <p>555 your office number</p>
