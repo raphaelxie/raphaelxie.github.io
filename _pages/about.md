@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_photo.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
       <div style="text-align: center; font-size: 15px;">
