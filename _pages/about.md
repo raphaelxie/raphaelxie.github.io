@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: profile_photo.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # keep the profile photo rectangular
   more_info: >
       <div style="text-align: center; font-size: 15px;">
         Qingquan Xie
