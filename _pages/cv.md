@@ -1,10 +1,9 @@
 ---
-layout: page
-permalink: /cv/
+layout: # cv
+permalink: /assets/pdf/CV_QingquanXie.pdf
 title: CV
+description:
 nav: true
 nav_order: 3
-description:
+cv_pdf: #/assets/pdf/CV_QingquanXie.pdf
 ---
-
-My CV will be added here.
