@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
----
-
 #### **Papers**
 
 - **Depth-dependent mechanisms underpinning soil organic carbon accumulation following afforestation** \\
@@ -35,5 +33,3 @@ Y. Fang, X. He, Qingquan Xie, & D. Li \\
 Q. Liu, Z. Xie, S. Tang, X. He, Qingquan Xie, & D. Li \\
 *Bioresource Technology*, 2024 \\
 [`DOI`](https://doi.org/10.1016/j.biortech.2025.132068)
-
----
