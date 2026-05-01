@@ -127,7 +127,11 @@
         {% capture link %}https://inspirehep.net/authors/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'instagram_id' %}
-        {% capture link %}https://instagram.com/{{ social[1] }}{% endcapture %}
+        {% assign _ig = social[1] %}
+        {% if _ig.value %}
+          {% assign _ig = _ig.value %}
+        {% endif %}
+        {% capture link %}https://instagram.com/{{ _ig }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'kaggle_id' %}
         {% capture link %}https://www.kaggle.com/{{ social[1] }}{% endcapture %}
@@ -177,7 +181,11 @@
           {% assign sameaslinks = sameaslinks | push: link %}
         {% endcomment %}
       {% when 'scholar_userid' %}
-        {% capture link %}https://scholar.google.com/citations?user={{ social[1] }}{% endcapture %}
+        {% assign _su = social[1] %}
+        {% if _su.value %}
+          {% assign _su = _su.value %}
+        {% endif %}
+        {% capture link %}https://scholar.google.com/citations?user={{ _su }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'scopus_id' %}
         {% capture link %}https://www.scopus.com/authid/detail.uri?authorId={{ social[1] }}{% endcapture %}

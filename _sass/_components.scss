@@ -90,6 +90,49 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Social icons in the About page profile column (under name)
+.profile .profile-social {
+  margin-top: 0.35rem;
+  text-align: center;
+
+  .contact-icons {
+    font-size: 1.35rem;
+
+    a {
+      margin: 0 0.2rem;
+
+      img {
+        width: 1.65rem;
+        height: 1.65rem;
+        margin-bottom: 0;
+        vertical-align: middle;
+      }
+
+      svg {
+        width: 1.65rem;
+        height: 1.65rem;
+        margin-bottom: 0;
+        vertical-align: middle;
+
+        image {
+          width: 1.65rem;
+          height: 1.65rem;
+        }
+      }
+
+      i::before {
+        font-size: 1.65rem;
+        vertical-align: middle;
+      }
+    }
+  }
+
+  .contact-note {
+    margin-top: 0.35rem;
+    text-align: center;
+  }
+}
+
 // CV
 
 .cv {
