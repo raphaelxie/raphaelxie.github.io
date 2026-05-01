@@ -8,8 +8,12 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info:
-
+  more_info: >
+      <div style="text-align: center; font-size: 15px;">
+        Qingquan Xie\\
+        清泉
+      </div> 
+  #   <p>555 your office number</p>
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
