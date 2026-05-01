@@ -24,6 +24,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Raphael Xie.
+I am a first-year master’s student in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/).
 
-This website contains information about my research and academic work.
+Prior to my current studies, I earned a B.S. in [Applied & Computational Mathematical Science](https://acms.washington.edu/) and a B.A. in [Sociology](https://soc.washington.edu/) at UW.
+
+My research interests include:
+- statistical methodology for social science
+- causal inference, social network
+- ecology
+
+Personal interest:
+- whisky, rum, cognac — 1500+ whiskies tasted and still on the journey 🥃
+- horror movies (The Conjuring Series)
+- sumo
