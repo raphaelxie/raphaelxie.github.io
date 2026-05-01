@@ -9,7 +9,9 @@ email:
 scholar_userid:
   value: "x4zXpf0AAAAJ&hl"
   logo: /assets/img/google_scholar_icon.png
-github_username: raphaelxie
+github_username:
+  value: raphaelxie
+  logo: /assets/img/github_icon.png
 instagram_id:
   value: raphaellainsleep
   logo: /assets/img/Instagram_icon.png
