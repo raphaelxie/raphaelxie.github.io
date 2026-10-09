@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year master’s student in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/).
+I am a second-year master’s student in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/).
 
 Prior to my current studies, I earned a B.S. in [Applied & Computational Mathematical Science](https://acms.washington.edu/) and a B.A. in [Sociology](https://soc.washington.edu/) at UW.
 
