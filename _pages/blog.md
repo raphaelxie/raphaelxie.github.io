@@ -11,18 +11,18 @@ I write about whisky for AngeShare. This four-part series follows my visits to W
 
 All articles are in Chinese and published on WeChat.
 
-1. [以父之名 | 美国西海岸威士忌探访：序](https://mp.weixin.qq.com/s/ZB0PFHQj0wJLlYbXyHGqRw)
+1. [以父之名 &#124; 美国西海岸威士忌探访：序](https://mp.weixin.qq.com/s/ZB0PFHQj0wJLlYbXyHGqRw)
 
    Series introduction
 
-2. [以父之名 | 美国西海岸威士忌探访：红酒之乡](https://mp.weixin.qq.com/s/lJDHWrK7Cfxym9eOTm5Qaw)
+2. [以父之名 &#124; 美国西海岸威士忌探访：红酒之乡](https://mp.weixin.qq.com/s/lJDHWrK7Cfxym9eOTm5Qaw)
 
    Woodinville: whisky in wine country
 
-3. [以父之名 | 美国西海岸威士忌探访：Copperworks](https://mp.weixin.qq.com/s/CksqKcJcvKECVhYyE3SBZQ)
+3. [以父之名 &#124; 美国西海岸威士忌探访：Copperworks](https://mp.weixin.qq.com/s/CksqKcJcvKECVhYyE3SBZQ)
 
    A visit to Copperworks
 
-4. [以父之名 | 美国西海岸威士忌探访：Westland](https://mp.weixin.qq.com/s/dWde6MmgP20NYvBIku8vLw)
+4. [以父之名 &#124; 美国西海岸威士忌探访：Westland](https://mp.weixin.qq.com/s/dWde6MmgP20NYvBIku8vLw)
 
    A visit to Westland
