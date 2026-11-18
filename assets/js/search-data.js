@@ -23,4 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-blog",
+          title: "Blog",
+          description: "Whisky writing for AngeShare",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },];
