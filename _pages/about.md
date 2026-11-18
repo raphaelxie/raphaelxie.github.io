@@ -37,7 +37,6 @@ My research interests include:
 - causal inference, social network
 - ecology
 
-Personal interest:
-- whisky, rum, cognac — 1500+ whiskies tasted and still on the journey 🥃
-- horror movies (The Conjuring Series)
-- sumo
+Outside of research, I’m a whisky enthusiast and a contributing writer for AngeShare. I’ve tasted 1,500+ whiskies, so my brain is practically a whisky database.
+
+I also enjoy horror movies, K-pop (especially TWICE and aespa), and following sumo tournaments. Ura and Hoshoryu are my favorites. Feel free to reach out if you’d like to chat about whisky or your favorite rikishi!
