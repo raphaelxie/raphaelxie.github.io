@@ -37,6 +37,6 @@ My research interests include:
 - causal inference, social network
 - ecology
 
-Outside of research, I’m a whisky enthusiast and a contributing writer for AngeShare. I’ve tasted 1,500+ whiskies, so my brain is practically a whisky database.
+Outside of research, I’m a whisky enthusiast and a [contributing writer for AngeShare]({{ '/blog/' | relative_url }}). I’ve tasted 1,500+ whiskies, so my brain is practically a whisky database.
 
 I also enjoy horror movies, K-pop (especially TWICE and aespa), and following sumo tournaments. Ura and Hoshoryu are my favorites. Feel free to reach out if you’d like to chat about whisky or your favorite rikishi!
