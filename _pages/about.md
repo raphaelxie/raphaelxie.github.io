@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: d3_cut.png
+  image: profile.jpg
   image_circular: false # keep the profile photo rectangular
   more_info: >
       <div style="text-align: center; font-size: 15px;">
