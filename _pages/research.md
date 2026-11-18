@@ -7,29 +7,24 @@ nav: true
 nav_order: 2
 ---
 
-#### **Papers**
+## Network cognition in generative agents
 
-- **Depth-dependent mechanisms underpinning soil organic carbon accumulation following afforestation** \\
-Qingquan Xie, Y. Liu, Z. Zhu, K. Xiao, & D. Li \\
-*Journal of Plant Ecology*, 2026 \\
-[`DOI`](https://doi.org/10.1093/jpe/rtaf166)
+*Research with Tyler H. McCormick, University of Washington*
 
-- **Microbial necromass dominates particulate and mineral-associated organic carbon accumulation in calcareous soil following afforestation** \\
-Z. Zhu, K. Xiao, Y. Liu, Qingquan Xie, & D. Li \\
-*Journal of Applied Ecology*, 2026 \\
-[`DOI`](https://doi.org/10.1111/1365-2664.70364)
+How closely do AI agents' beliefs about their social networks match the interactions that take place? I study this question in a simulated town where language-model agents form memories, make plans, and talk to one another. I developed four survey instruments covering perceived ties, centrality, brokerage, and communities, along with a pipeline that compares their responses with recorded conversation networks. Surveys run on saved snapshots so that asking questions does not alter the agents' subsequent interactions.
 
-- **Twelve-year high manure input enhances soil organic carbon stability and ecosystem multifunctionality in a karst agroecosystem** \\
-Z. Zhu, S. Chen, Qingquan Xie, Li Wen, K. Wang, & D. Li \\
-*Plant and Soil*, 2026 \\
-[`DOI`](https://doi.org/10.1007/s11104-026-08431-9)
+A 25-agent pilot compared a control condition with two conditions that prevented a selected agent from starting or receiving new conversations. Agents' reported social connections showed limited agreement with recorded conversations, and they frequently ranked themselves as the most central person. Each condition contains one simulation trajectory, with three survey repeats per snapshot, so these results are descriptive. The survey asks about social connections broadly, while evaluation uses recorded conversations.
 
-- **Increasing tree phylogenetic diversity stimulates microbial functional potential in a subtropical forest** \\
-Y. Fang, X. He, Qingquan Xie, & D. Li \\
-*Journal of Plant Ecology*, 2025 \\
-[`DOI`](https://doi.org/10.1093/jpe/rtae096)
+[Research code](https://github.com/raphaelxie/Generative_Agent_Cognitive_Network)
 
-- **Synthetic microbial community enhances lignocellulose degradation during composting by assembling fungal communities** \\
-Q. Liu, Z. Xie, S. Tang, X. He, Qingquan Xie, & D. Li \\
-*Bioresource Technology*, 2024 \\
-[`DOI`](https://doi.org/10.1016/j.biortech.2025.132068)
+## Making expert taste computable
+
+*Symbolic Boundaries and the Discursive Production of Value in Whisky Reviews*
+
+*With E. Hock. Lightning talk presented at New Directions in Analyzing Text as Data (TADA), University of California, Berkeley, October 2026.*
+
+How do experts turn sensory experiences into evaluations that others can understand? Using 11,149 whisky reviews, I built text-based models of numerical scores and compared a domain-specific sensory dictionary with generic sentiment analysis and a TF-IDF/ridge model. The sensory dictionary predicted scores better than generic sentiment analysis, while the TF-IDF/ridge model achieved the strongest predictive performance. Section-level analysis located much of the score-related variation in descriptions of smell, taste, and finish.
+
+The project also examines how words associated with flaws convey distinctions between the natural and the artificial. It connects interpretable text analysis with questions about cultural evaluation and symbolic boundaries.
+
+[Published papers]({{ '/publications/' | relative_url }})

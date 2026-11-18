@@ -28,15 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year master’s student in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/).
+I am a second-year master's student in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/), where I also earned a B.S. in [Applied & Computational Mathematical Science](https://acms.washington.edu/) and a B.A. in [Sociology](https://soc.washington.edu/).
 
-Prior to my current studies, I earned a B.S. in [Applied & Computational Mathematical Science](https://acms.washington.edu/) and a B.A. in [Sociology](https://soc.washington.edu/) at UW.
+I use statistical and computational methods to study social networks and how people express judgments. With Tyler H. McCormick, I study how language-model agents perceive the social networks they form. In a separate project, I analyze expert whisky reviews to examine how descriptions of sensory experience convey evaluations. My broader interests include causal inference and statistical methods for social science. Before my master's, I worked on ecological data analysis at the Chinese Academy of Sciences.
 
-My research interests include:
-- statistical methodology for social science
-- causal inference, social network
-- ecology
+You can read about my [current projects]({{ '/research/' | relative_url }}) and [publications]({{ '/publications/' | relative_url }}).
 
-Outside of research, I’m a whisky enthusiast and a [contributing writer for AngeShare]({{ '/blog/' | relative_url }}). I’ve tasted 1,500+ whiskies, so my brain is practically a whisky database.
-
-I also enjoy horror movies, K-pop (especially TWICE and aespa), and following sumo tournaments. Ura and Hoshoryu are my favorites. Feel free to reach out if you’d like to chat about whisky or your favorite rikishi!
+Outside research, I write about whisky for [AngeShare]({{ '/blog/' | relative_url }}). I also enjoy horror films, K-pop (especially TWICE and aespa), and sumo. Ura and Hoshoryu are my favorites.

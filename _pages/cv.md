@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 description:
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <meta http-equiv="refresh" content="0; url={{ '/assets/pdf/CV_QingquanXie.pdf' | relative_url }}">

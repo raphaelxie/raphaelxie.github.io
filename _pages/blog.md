@@ -4,7 +4,7 @@ permalink: /blog/
 title: Blog
 description: Whisky writing for AngeShare
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 I write about whisky for AngeShare. This four-part series follows my visits to Woodinville, Copperworks, and Westland on the U.S. West Coast.
